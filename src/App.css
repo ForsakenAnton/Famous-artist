@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.links {
+  margin: 15px;
+  text-decoration: none;
+}
+
+.links:hover {
+  color:orangered;
+  cursor: pointer;
+  background-color: azure;
+}
