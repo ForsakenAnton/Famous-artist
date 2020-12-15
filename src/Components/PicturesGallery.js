@@ -17,7 +17,7 @@ export function PicturesGallery(props) {
             <p>picture three</p>
             <p>...picture n</p>
             <hr />
-            <p>Recieved param: {paramId}</p>
+            <p>Recieved param: {paramId}</p> 
         </>
     )
 }
